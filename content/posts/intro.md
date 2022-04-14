@@ -9,3 +9,5 @@ Hola, soy Laura Karina, estas son mis expectativas del proyecto:
 🔅 Retarme y demostrarme que puedo hacer cosas que no son de mi área
 🔅 Salir de mi zona de confort
 🔅 Aprender a trabajar bajo presión 
+
+Me estaré reportando continuamente, estoy muy emocionada con esta aventura 💜
