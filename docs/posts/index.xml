@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La cultura en un Desarrollador del Software</title>
+      <link>https://example.com/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/post_1/</guid>
+      <description>Hola 😋✌🏼
+Para mi la cultura de un profesional del software se basa en lo siguiente:
+🔅 Dedicación 🔅 Respeto 🔅 Orgullo 🔅 Honestidad 🔅 Empatia 🔅 Amor por lo que se hace
+Estos son algunos valores importantes para mi, gracias por leerme</description>
+    </item>
+    
+    <item>
       <title>Mis expectativas</title>
       <link>https://example.com/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
